@@ -1,7 +1,7 @@
 ---
 title: "Welcome to DATA606!"
 author: "Jason Bryer"
-date: 2017-08-25
+date: 2018-01-29
 categories: ["R"]
 tags: ["Annoucement"]
 ---
