@@ -100,7 +100,7 @@ May-17 | May-21   |         | Final Exam
 	* Proposal is due March 7th (5%); Final project is due May 16th (15%).
 * Final exam (18%)
 * [Meetup Presentation](http://data606.net/assignments/presentation/) (5%)
-	* Present one practice problem during our weekly meetups. Signup using the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1geFxr-A0nlhmG36Bd2ftIdYdCZauJJ5xz-Ykq6qI6-M/edit?usp=sharing).
+	* Present one practice problem during our weekly meetups. Signup using the [Google Spreadsheet](http://data606.net/course-overview/meetups).
 
 ## Communication
 
@@ -160,6 +160,10 @@ data(legosets)
 * Categorical (qualitative)
 	* Regular categorical
 	* Ordinal
+
+## Data Types in R
+
+<center><img src='images/DataTypesConceptModel.png' height='500'></center>
 
 
 ## Types of Variables

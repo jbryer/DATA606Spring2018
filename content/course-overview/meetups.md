@@ -18,7 +18,7 @@ Access Code: 890-853-557
 
 Date                 | Topic                           | Resources |
 :--------------------|:--------------------------------|:----------|
-Wed, Jan 31, 8:00 pm | Intro to Course                 | [Slides](/slides/2018-01-31-Intro_to_Course.html)
+Wed, Jan 31, 8:00 pm | Intro to Course                 | [Slides](/slides/2018-01-31-Intro_to_Course.html), [Video](https://youtu.be/sx210soWEg0)
 Wed, Feb 7, 8:00 pm  | Intro to Data                   | 
 Wed, Feb 14, 8:00 pm | Probability                     | 
 Wed, Feb 21, 8:00 pm | Distributions Part I            | 
