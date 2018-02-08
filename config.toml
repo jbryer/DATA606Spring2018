@@ -8,6 +8,8 @@ themesdir = "themes/"
 
 publishDir = "docs/"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [params]
 editURL = "https://github.com/jbryer/DATA606Spring2018/tree/master/content/"
 noHomeIcon = false # default is false

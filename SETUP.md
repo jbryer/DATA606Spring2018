@@ -1,4 +1,3 @@
-
 ### Steps for setting up new course:
 
 * Copy the following files and folders:
@@ -18,3 +17,9 @@
 * Create Google Calendar.
 * Update schedule on `content/course-overview/meetups.md` and `content/course-overview/schedule.md`.
 * Create Slack channel.
+* Update URL for past semester:
+	* Change the custom domain to `XXXYYY.data606.net`
+	* Add a CNAME record to Hover with host = `XXXYYY` and value = `jbryer.github.com`.
+	* Update the `README.md` file to use the archived URL
+* Update URL for new semester:
+	* Change the custom domain to `data606.net`
