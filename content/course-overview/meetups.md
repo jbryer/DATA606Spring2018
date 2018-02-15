@@ -20,7 +20,7 @@ Date                 | Topic                           | Resources |
 :--------------------|:--------------------------------|:----------|
 Wed, Jan 31, 8:00 pm | Intro to Course                 | [Slides](/slides/2018-01-31-Intro_to_Course.html), [Video](https://youtu.be/sx210soWEg0)
 Wed, Feb 7, 8:00 pm  | Intro to Data                   | [Slides](/slides/2018-02-07-Intro_to_Data.html), [Video](https://youtu.be/p7vX2S7LVv4)
-Wed, Feb 14, 8:00 pm | Probability                     | [Slides](/slides//2018-02-14-Probability.html)
+Wed, Feb 14, 8:00 pm | Probability                     | [Slides](/slides//2018-02-14-Probability.html), [Video](https://youtu.be/nWsa-k3vYpg)
 Wed, Feb 21, 8:00 pm | Distributions Part I            | 
 Wed, Feb 28, 8:00 pm | Distributions Part II           | 
 Wed, Mar 7, 8:00 pm  | Foundation for Inference        | 

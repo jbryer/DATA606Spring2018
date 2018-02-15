@@ -26,6 +26,7 @@ library(ggplot2)
 * Added a fourth presentation slot for each week.
 * Created a wiki on the Github site. Feel free to add resources you find that you think your fellow students might find useful: https://github.com/jbryer/DATA606Spring2018/wiki
 * Not everyone has joined the Slack channel, click this link to join (link expires soon!): https://join.slack.com/t/data606spring2018/shared_invite/enQtMzA3OTMzNzgyMDM0LTMyYzY0MmVkYjdkNGFjNjI2ZThhZDdjMDNhNzIxNzc2YmUyYmJmMmMxYTY5ZTAyNDg5YjhlNDAzY2ZkY2M2NTY
+* [New York Open Statistical Programming Meetup](https://www.meetup.com/nyhackr) has an confernece on April 20 - 21: https://www.rstats.nyc/
 
 ## Presentations
 
