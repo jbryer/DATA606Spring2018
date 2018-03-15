@@ -24,7 +24,7 @@ Wed, Feb 14, 8:00 pm | Probability                     | [Slides](/slides/2018-0
 Wed, Feb 21, 8:00 pm | Distributions Part I            | [Slides](/slides/2018-02-21-Distributions.html), [Video](https://youtu.be/099Jh0oUm9w), [R](https://github.com/jbryer/DATA606Spring2018/blob/master/R/2018-02-21.R)
 Wed, Feb 28, 8:00 pm | Distributions Part II           | [Slides](/slides/2018-02-28-Distributions2.html), [Video](https://youtu.be/nYmikQEdW2Y), [R](https://github.com/jbryer/DATA606Spring2018/blob/master/R/2018-02-28.R)
 Wed, Mar 7, 8:00 pm  | Foundation for Inference        | [Slides](/slides/2018-03-07-Foundation_for_Inference.html), [Video](https://youtu.be/EIN-LPgcnZE)
-Wed, Mar 14, 8:00 pm | Foundation for Inference cont.  | 
+Wed, Mar 14, 8:00 pm | Foundation for Inference cont.  | [Slides](/slides/2018-03-14-Foundation_for_Inference2.html), [Video](https://youtu.be/Z19WnnoMRT8)
 Wed, Mar 21, 8:00pm  | Inference for Numerical Data    | 
 Wed, Mar 28, 8:00pm  | Inference for Categorical Data  | 
 April 4              | NO MEETUP                       | 
