@@ -26,7 +26,7 @@ Wed, Feb 28, 8:00 pm | Distributions Part II           | [Slides](/slides/2018-0
 Wed, Mar 7, 8:00 pm  | Foundation for Inference        | [Slides](/slides/2018-03-07-Foundation_for_Inference.html), [Video](https://youtu.be/EIN-LPgcnZE)
 Wed, Mar 14, 8:00 pm | Foundation for Inference cont.  | [Slides](/slides/2018-03-14-Foundation_for_Inference2.html), [Video](https://youtu.be/Z19WnnoMRT8)
 Wed, Mar 21, 8:00pm  | Inference for Numerical Data    | [Slides](/slides/2018-03-21-Inference_for_Numerical_Data.html), [Video](https://youtu.be/p2UUfBFMPAw)
-Wed, Mar 28, 8:00pm  | Inference for Categorical Data  | 
+Wed, Mar 28, 8:00pm  | Inference for Categorical Data  | [Slides](/slieds/2018-03-28-Inference_for_Categorical_Data.html), [Video](https://youtu.be/et1Ml2gHlwE)
 April 4              | NO MEETUP                       | 
 Wed, Apr 11, 8:00 pm | Linear Regression               | 
 Wed, Apr 18, 8:00 pm | Linear Regression cont.         | 

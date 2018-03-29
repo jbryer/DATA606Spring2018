@@ -27,9 +27,19 @@ par(mar=c(2.5,1,2,1))
 
 ```
 
+## Announcements
+
+* No meetup next week (Spring break)!
+* Project proposal due Sunday, but if you need an extra week, you can submit up to April 8th. See this page for template and example: http://data606.net/assignments/project/
+* p-Hacking fun: https://projects.fivethirtyeight.com/p-hacking/
+* Link in Lab 6 was broken. It has been fixed on Github. Use this link or reinstall the DATA606 package: https://github.com/jbryer/DATA606/blob/master/inst/labs/Lab6/more/Global_INDEX_of_Religiosity_and_Atheism_PR__6.pdf 
+
 ## Presentations
 
-*
+* Ritesh Lohiya (5.5) http://rpubs.com/ritesh_lohiya/Data606_Pre
+* Hantz Angrand (5.13) http://rpubs.com/hangrand/373972
+* Heather Geiger (5.19) http://rpubs.com/hmgeiger/374134
+* Gabrielle Bartomeo (5.31) http://rpubs.com/gabartomeo/data606hwpres0531
 
 ## Example
 
