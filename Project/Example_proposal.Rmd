@@ -132,7 +132,7 @@ The response variable is first year retention and is numerical.
 
 ### Explanatory 
 
-**What is the explanatory variable, and what type is it (numerical/categorival)?**
+**What is the explanatory variable, and what type is it (numerical/categorical)?**
 
 The explanatory variable is median SAT score and is numerical.
 
