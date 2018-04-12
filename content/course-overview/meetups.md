@@ -28,7 +28,7 @@ Wed, Mar 14, 8:00 pm | Foundation for Inference cont.  | [Slides](/slides/2018-0
 Wed, Mar 21, 8:00pm  | Inference for Numerical Data    | [Slides](/slides/2018-03-21-Inference_for_Numerical_Data.html), [Video](https://youtu.be/p2UUfBFMPAw)
 Wed, Mar 28, 8:00pm  | Inference for Categorical Data  | [Slides](/slides/2018-03-28-Inference_for_Categorical_Data.html), [Video](https://youtu.be/et1Ml2gHlwE)
 April 4              | NO MEETUP                       | 
-Wed, Apr 11, 8:00 pm | Linear Regression               | 
+Wed, Apr 11, 8:00 pm | Linear Regression               | [Slides](/slides/2018-04-11-Linear_Regression.html), [Video](https://youtu.be/glupW3GCu6Y)
 Wed, Apr 18, 8:00 pm | Linear Regression cont.         | 
 Wed, Apr 25, 8:00 pm | Multiple & Logistic Regression  | 
 Wed, May 9, 8:00 pm  | Intro to Bayesian Analysis      | 
