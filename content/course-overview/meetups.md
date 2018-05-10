@@ -32,6 +32,6 @@ Wed, Apr 11, 8:00 pm | Linear Regression               | [Slides](/slides/2018-0
 Wed, Apr 18, 8:00 pm | Linear Regression cont.         | [Slides](/slides/2018-04-18-Linear_Regression2.html), [Video](https://youtu.be/Oc1HlGzzlDs)
 Wed, Apr 25, 8:00 pm | Multiple & Logistic Regression  | [Slides](/slides/2018-04-25-Multiple_Regression.html), [Video](https://youtu.be/RKVu0AQkKGU), [R](https://github.com/jbryer/DATA606Spring2018/blob/master/R/2018-04-25.R), [Shiny App](https://shiny.rit.albany.edu/stat/mod2/)
 May 2                | NO MEETUP                       | 
-Wed, May 9, 8:00 pm  | Intro to Bayesian Analysis      | 
+Wed, May 9, 8:00 pm  | Intro to Bayesian Analysis      | [Slides](/slides/2018-05-03-Bayesian_Analysis.html), [Video](https://youtu.be/fDbLKQegEDc)
 Wed, May 16, 8:00 pm | Wrap-Up                         | 
 
